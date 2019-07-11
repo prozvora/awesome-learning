@@ -26,23 +26,23 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-c5549b467cfcf98ef945.js"
+    "url": "webpack-runtime-c27b951ea55f8472fd0c.js"
   },
   {
     "url": "styles.2cef1704e73adfe043a7.css"
   },
   {
-    "url": "styles-9500ee18a5b3dd05ac0c.js"
+    "url": "styles-669ecd760b376de32e20.js"
   },
   {
-    "url": "app-56235fcdc44cf5ca63f6.js"
+    "url": "app-62c03f36112f8a7d30fa.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-71e9b9f97787c6f2b874.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "688918aa6d44f0b1acd3ef8acc902a2e"
+    "revision": "0c924c44f1517365507254391ed46210"
   },
   {
     "url": "static/d/604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8.json"
@@ -74,7 +74,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/pages/evcooper/awesome-learning/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/awesome-learning/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -146,7 +146,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `/pages/evcooper/awesome-learning${pathname}`
+        return `/awesome-learning${pathname}`
       } else {
         return pathname
       }

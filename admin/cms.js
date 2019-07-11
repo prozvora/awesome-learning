@@ -1078,7 +1078,7 @@ window.netlifyIdentity = _netlifyIdentityWidget.default;
 
 var addLoginListener = function addLoginListener() {
   return _netlifyIdentityWidget.default.on("login", function () {
-    document.location.href = "/pages/evcooper/awesome-learning" + "/" + "admin" + "/";
+    document.location.href = "/awesome-learning" + "/" + "admin" + "/";
   });
 };
 
