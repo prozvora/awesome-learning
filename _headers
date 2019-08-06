@@ -10,421 +10,429 @@
 /sw.js
   Cache-Control: no-cache
 /awesome-learning/offline-plugin-app-shell-fallback/
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
   Link: </awesome-learning/component---node-modules-gatsby-plugin-offline-app-shell-js-71e9b9f97787c6f2b874.js>; rel=preload; as=script
 /awesome-learning/
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-index-template-js-fc67d365c33acb25d3a9.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-index-template-js-df31bb05f2075c0455e6.js>; rel=preload; as=script
 /awesome-learning/404
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-not-found-template-js-c7d82d1555b4e1e1f926.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-not-found-template-js-3f2ae3f6c54348805b07.js>; rel=preload; as=script
 /awesome-learning/tags
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/3-da5fe14e82a73be0f629.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tags-list-template-js-f6e60a668e2839996904.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/3-d3a4bc3b62bfe22f1e63.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tags-list-template-js-fef1238f775e82e81e8e.js>; rel=preload; as=script
 /awesome-learning/howTo
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-how-to-template-js-f6a7cdb0c4107706bc15.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-how-to-template-js-33d7997706e48ebfa9b9.js>; rel=preload; as=script
 /awesome-learning/categories
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/3-da5fe14e82a73be0f629.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-categories-list-template-js-1e2ac3d7c8eb9f8a963f.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/3-d3a4bc3b62bfe22f1e63.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-categories-list-template-js-f2a8c5d87263c8bc20f7.js>; rel=preload; as=script
+/awesome-learning/howToUse/faq/
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-page-template-js-9c7efa23dd24d0224a68.js>; rel=preload; as=script
 /awesome-learning/courses/Data-Types/
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-course-template-js-c6dfd29ca48b4bfdce4b.js>; rel=preload; as=script
-/awesome-learning/courses/Promises/
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-course-template-js-c6dfd29ca48b4bfdce4b.js>; rel=preload; as=script
-/awesome-learning/courses/Functions-and-Scope/
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-course-template-js-c6dfd29ca48b4bfdce4b.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-course-template-js-e419a2a5cf55ac327629.js>; rel=preload; as=script
 /awesome-learning/courses/Array-Methods/
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-course-template-js-c6dfd29ca48b4bfdce4b.js>; rel=preload; as=script
-/awesome-learning/courses/Testing/
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-course-template-js-c6dfd29ca48b4bfdce4b.js>; rel=preload; as=script
-/awesome-learning/courses/Functions-and-Scope/context-and-arrows
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Functions-and-Scope/context-and-arrows/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Functions-and-Scope/scope
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Functions-and-Scope/scope/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Functions-and-Scope/closures
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Functions-and-Scope/closures/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Data-Types/types-and-equality
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Data-Types/types-and-equality/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Testing/component-testing
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Testing/component-testing/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-course-template-js-e419a2a5cf55ac327629.js>; rel=preload; as=script
+/awesome-learning/courses/Functions-and-Scope/
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-course-template-js-e419a2a5cf55ac327629.js>; rel=preload; as=script
+/awesome-learning/courses/Promises/
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-course-template-js-e419a2a5cf55ac327629.js>; rel=preload; as=script
 /awesome-learning/courses/Data-Types/objects
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
 /awesome-learning/courses/Data-Types/objects/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Promises/intro-to-promises
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Promises/intro-to-promises/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Testing/intro-to-unit-testing
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Testing/intro-to-unit-testing/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Array-Methods/forEach
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Array-Methods/forEach/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Testing/
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-course-template-js-e419a2a5cf55ac327629.js>; rel=preload; as=script
 /awesome-learning/courses/Array-Methods/advanced-reduce
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
 /awesome-learning/courses/Array-Methods/advanced-reduce/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Array-Methods/sort
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Array-Methods/sort/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
-/awesome-learning/courses/Promises/advanced-promises
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
-/awesome-learning/courses/Promises/advanced-promises/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
 /awesome-learning/courses/Array-Methods/reduce
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
 /awesome-learning/courses/Array-Methods/reduce/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Array-Methods/forEach
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Array-Methods/forEach/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Data-Types/types-and-equality
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Data-Types/types-and-equality/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
 /awesome-learning/courses/Array-Methods/map-and-filter
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-lesson-template-js-b26ec8d14c2bec136e6a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
 /awesome-learning/courses/Array-Methods/map-and-filter/quiz
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-quiz-template-js-e16c5d0a7aa128f35d5f.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Array-Methods/sort
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Array-Methods/sort/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Testing/intro-to-unit-testing
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Testing/intro-to-unit-testing/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Functions-and-Scope/closures
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Functions-and-Scope/closures/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Testing/component-testing
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Testing/component-testing/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Functions-and-Scope/context-and-arrows
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Functions-and-Scope/context-and-arrows/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Promises/intro-to-promises
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Promises/intro-to-promises/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Functions-and-Scope/scope
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Functions-and-Scope/scope/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
+/awesome-learning/courses/Promises/advanced-promises
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-lesson-template-js-41319af6524527b48d6d.js>; rel=preload; as=script
+/awesome-learning/courses/Promises/advanced-promises/quiz
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-quiz-template-js-7529396b8e9a4c5afcfa.js>; rel=preload; as=script
 /awesome-learning/tag/async-js
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/callbacks
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/closures
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/coercion
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/comparisons
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/context
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/debugging
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/equality
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/functional-programming
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/higher-order-functions
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/jest
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/promises
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/refactoring
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/tag/types
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-tag-template-js-85ede66a622a9f49d69a.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-tag-template-js-b5bf290f12b7a9b382b1.js>; rel=preload; as=script
 /awesome-learning/category/async-js
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-category-template-js-3168aacb0c88daf61c93.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-category-template-js-bdd203a0bd6892140e6e.js>; rel=preload; as=script
 /awesome-learning/category/automated-testing
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-category-template-js-3168aacb0c88daf61c93.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-category-template-js-bdd203a0bd6892140e6e.js>; rel=preload; as=script
 /awesome-learning/category/js-fundamentals
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/2-e605c6bdb785c917c2ac.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-category-template-js-3168aacb0c88daf61c93.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/2-032868be2d08db9fd200.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-category-template-js-bdd203a0bd6892140e6e.js>; rel=preload; as=script
 /awesome-learning/courses/
-  Link: </awesome-learning/webpack-runtime-62b4e47c1291d7555e4e.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/app-860ba50277355f499eb1.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-573a703962683521aef9.js>; rel=preload; as=script
-  Link: </awesome-learning/1-a057c653bfffede00d6c.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-course-list-template-js-dc5ac994d5369f14fb98.js>; rel=preload; as=script
+  Link: </awesome-learning/webpack-runtime-9bfab32646c4b74e2b53.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/app-4b2213f07eb6f4af33e7.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-352f945bb858db41478b.js>; rel=preload; as=script
+  Link: </awesome-learning/1-9d61ce1790794494ad2f.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-course-list-template-js-4f9c6adc12fd5f2e29e8.js>; rel=preload; as=script
