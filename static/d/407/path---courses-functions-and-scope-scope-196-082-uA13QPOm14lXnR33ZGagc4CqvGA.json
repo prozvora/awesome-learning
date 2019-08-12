@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"disqusShortname\" on type \"SiteSiteMetadata\".","locations":[{"line":12,"column":7}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/courses/Functions-and-Scope/scope"}}

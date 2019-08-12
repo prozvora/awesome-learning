@@ -1,0 +1,1 @@
+{"errors":[{"message":"Field \"attachments\" must not have a selection since type \"[String]\" has no subfields.","locations":[{"line":34,"column":19}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/courses/Array-Methods/reduce"}}
