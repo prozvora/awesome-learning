@@ -26,26 +26,40 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-ff865f969d7102ca717e.js"
+    "url": "webpack-runtime-2407df3425ddf91a06ab.js"
   },
   {
-    "url": "styles.d78f7f2fa06c620cc6ba.css"
+    "url": "styles.17d7cfdb57902f0bfc98.css"
   },
   {
-    "url": "styles-2cc59c09731180bc5076.js"
+    "url": "styles-e248eb3a1a23513b545a.js"
   },
   {
-    "url": "app-a2a78ea0ba0e29d5389e.js"
+    "url": "app-65207429a3ef617ba849.js"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-71e9b9f97787c6f2b874.js"
+    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-b7692ba5d4049752b6e2.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "fc3eae6861208e21a1811403ca60b2bc"
+    "revision": "b74381793d899354a940403b015ab791"
   },
   {
-    "url": "static/d/604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8.json"
+    "url": "1-1f6a45c922db87607a8e.js"
+  },
+  {
+    "url": "2-d791230801d420460ec0.js"
+  },
+  {
+    "url": "component---src-templates-not-found-template-js-7762d38554fbb00bfca9.js"
+  },
+  {
+    "url": "page-data/404.html/page-data.json",
+    "revision": "13b96656fdcff49b197f64537c483b6c"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "caddd5bc5d203746b6c55c13fa943145"
   },
   {
     "url": "manifest.json",
@@ -60,6 +74,7 @@ workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerRoute(/(\.js$|\.css$|static\/)/, workbox.strategies.cacheFirst(), 'GET');
+workbox.routing.registerRoute(/^https?:.*\page-data\/.*\/page-data\.json/, workbox.strategies.networkFirst(), 'GET');
 workbox.routing.registerRoute(/^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/, workbox.strategies.staleWhileRevalidate(), 'GET');
 workbox.routing.registerRoute(/^https?:\/\/fonts\.googleapis\.com\/css/, workbox.strategies.staleWhileRevalidate(), 'GET');
 
