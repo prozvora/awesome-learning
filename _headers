@@ -111,6 +111,13 @@
   Link: </awesome-learning/styles-e248eb3a1a23513b545a.js>; rel=preload; as=script
   Link: </awesome-learning/1-1f6a45c922db87607a8e.js>; rel=preload; as=script
   Link: </awesome-learning/component---src-templates-course-template-js-124a2172b468e5859eaf.js>; rel=preload; as=script
+/awesome-learning/courses/Functions-and-Scope/
+  Link: </awesome-learning/webpack-runtime-fa573186d4c2839310db.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-e248eb3a1a23513b545a.js>; rel=preload; as=script
+  Link: </awesome-learning/app-65207429a3ef617ba849.js>; rel=preload; as=script
+  Link: </awesome-learning/styles-e248eb3a1a23513b545a.js>; rel=preload; as=script
+  Link: </awesome-learning/1-1f6a45c922db87607a8e.js>; rel=preload; as=script
+  Link: </awesome-learning/component---src-templates-course-template-js-124a2172b468e5859eaf.js>; rel=preload; as=script
 /awesome-learning/courses/React-Hooks/
   Link: </awesome-learning/webpack-runtime-fa573186d4c2839310db.js>; rel=preload; as=script
   Link: </awesome-learning/styles-e248eb3a1a23513b545a.js>; rel=preload; as=script
@@ -357,13 +364,6 @@
   Link: </awesome-learning/styles-e248eb3a1a23513b545a.js>; rel=preload; as=script
   Link: </awesome-learning/1-1f6a45c922db87607a8e.js>; rel=preload; as=script
   Link: </awesome-learning/component---src-templates-quiz-template-js-c540d12bfeb1cf8c5e27.js>; rel=preload; as=script
-/awesome-learning/courses/Functions-and-Scope/
-  Link: </awesome-learning/webpack-runtime-fa573186d4c2839310db.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-e248eb3a1a23513b545a.js>; rel=preload; as=script
-  Link: </awesome-learning/app-65207429a3ef617ba849.js>; rel=preload; as=script
-  Link: </awesome-learning/styles-e248eb3a1a23513b545a.js>; rel=preload; as=script
-  Link: </awesome-learning/1-1f6a45c922db87607a8e.js>; rel=preload; as=script
-  Link: </awesome-learning/component---src-templates-course-template-js-124a2172b468e5859eaf.js>; rel=preload; as=script
 /awesome-learning/tag/async-js
   Link: </awesome-learning/webpack-runtime-fa573186d4c2839310db.js>; rel=preload; as=script
   Link: </awesome-learning/styles-e248eb3a1a23513b545a.js>; rel=preload; as=script
